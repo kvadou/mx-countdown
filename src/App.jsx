@@ -71,7 +71,7 @@ function App() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Thursday 9th: Open{" "}
+              Friday 9th: Open{" "}
             </a>
           </li>{" "}
         </ul>
