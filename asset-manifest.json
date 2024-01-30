@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mx-countdown/static/css/main.f855e6bc.css",
-    "main.js": "/mx-countdown/static/js/main.9f918439.js",
+    "main.css": "/mx-countdown/static/css/main.142806b1.css",
+    "main.js": "/mx-countdown/static/js/main.70acf349.js",
     "static/js/787.de49025e.chunk.js": "/mx-countdown/static/js/787.de49025e.chunk.js",
     "static/media/mexico.jpg": "/mx-countdown/static/media/mexico.8170ec2c7c273e6988e9.jpg",
     "index.html": "/mx-countdown/index.html",
-    "main.f855e6bc.css.map": "/mx-countdown/static/css/main.f855e6bc.css.map",
-    "main.9f918439.js.map": "/mx-countdown/static/js/main.9f918439.js.map",
+    "main.142806b1.css.map": "/mx-countdown/static/css/main.142806b1.css.map",
+    "main.70acf349.js.map": "/mx-countdown/static/js/main.70acf349.js.map",
     "787.de49025e.chunk.js.map": "/mx-countdown/static/js/787.de49025e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.9f918439.js"
+    "static/css/main.142806b1.css",
+    "static/js/main.70acf349.js"
   ]
 }
