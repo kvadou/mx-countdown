@@ -24,6 +24,16 @@
   color: white;
 }
 
+.App-header li,
+.App-header li a { /* Targeting both li and a tags inside .App-header */
+  color: white; /* Sets text color to white */
+  text-decoration: none; /* Optional: Removes the underline from hyperlinks */
+}
+
+.App-header li a:hover {
+  color: #61dafb; /* Optional: Changes color on hover, you can choose any color */
+}
+
 .App-link {
   color: #61dafb;
 }
@@ -36,3 +46,9 @@
     transform: rotate(360deg);
   }
 }
+.no-bullets {
+  list-style-type: none; /* Removes bullet points */
+  padding: 0; /* Removes default padding */
+}
+
+/* ... the rest of your existing CSS ... */
