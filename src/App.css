@@ -58,3 +58,9 @@
     transform: rotate(360deg);
   }
 }
+
+.LeftAlignText {
+  text-align: left; /* Aligns text to the left */
+  width: 100%; /* Ensures the alignment affects the full width of the container */
+  display: block; /* Makes the anchor tag behave like a block element */
+}

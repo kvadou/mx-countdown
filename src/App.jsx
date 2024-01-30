@@ -15,6 +15,7 @@ function App() {
           {/* Wrap your list items in a <ul> for proper HTML structure */}
           <li>
             <a
+              className="LeftAlignText" // Apply the class here
               href="https://maps.app.goo.gl/cH6BDzc3LUypkvL89"
               target="_blank"
               rel="noopener noreferrer"
@@ -25,6 +26,7 @@ function App() {
           </li>{" "}
           <li>
             <a
+              className="LeftAlignText" // Apply the class here
               href="https://maps.app.goo.gl/GV4MQBg2zgYxfk8e7"
               target="_blank"
               rel="noopener noreferrer"
@@ -34,6 +36,7 @@ function App() {
           </li>{" "}
           <li>
             <a
+              className="LeftAlignText" // Apply the class here
               href="https://maps.app.goo.gl/qy7Ec4ke6fKBVaMe6"
               target="_blank"
               rel="noopener noreferrer"
@@ -43,6 +46,7 @@ function App() {
           </li>{" "}
           <li>
             <a
+              className="LeftAlignText" // Apply the class here
               href="https://maps.app.goo.gl/BQfwcfgyLXfjxZhU9"
               target="_blank"
               rel="noopener noreferrer"
@@ -52,6 +56,7 @@ function App() {
           </li>{" "}
           <li>
             <a
+              className="LeftAlignText" // Apply the class here
               href="https://maps.app.goo.gl/qt7S2StGPan6aqLE6"
               target="_blank"
               rel="noopener noreferrer"
@@ -60,7 +65,12 @@ function App() {
             </a>
           </li>{" "}
           <li>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a
+              className="LeftAlignText" // Apply the class here
+              href=""
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Thursday 9th: Open{" "}
             </a>
           </li>{" "}
