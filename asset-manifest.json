@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mx-countdown/static/css/main.b344aa3c.css",
-    "main.js": "/mx-countdown/static/js/main.70acf349.js",
+    "main.css": "/mx-countdown/static/css/main.a9106a75.css",
+    "main.js": "/mx-countdown/static/js/main.40c4fa0f.js",
     "static/js/787.de49025e.chunk.js": "/mx-countdown/static/js/787.de49025e.chunk.js",
     "static/media/mexico.jpg": "/mx-countdown/static/media/mexico.8170ec2c7c273e6988e9.jpg",
     "index.html": "/mx-countdown/index.html",
-    "main.b344aa3c.css.map": "/mx-countdown/static/css/main.b344aa3c.css.map",
-    "main.70acf349.js.map": "/mx-countdown/static/js/main.70acf349.js.map",
+    "main.a9106a75.css.map": "/mx-countdown/static/css/main.a9106a75.css.map",
+    "main.40c4fa0f.js.map": "/mx-countdown/static/js/main.40c4fa0f.js.map",
     "787.de49025e.chunk.js.map": "/mx-countdown/static/js/787.de49025e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b344aa3c.css",
-    "static/js/main.70acf349.js"
+    "static/css/main.a9106a75.css",
+    "static/js/main.40c4fa0f.js"
   ]
 }
