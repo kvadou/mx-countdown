@@ -38,6 +38,18 @@
   color: #61dafb;
 }
 
+.Mexico-image {
+  width: 80%; /* Adjust width to your preference */
+  max-width: 600px; /* Adjust max-width to your preference */
+  height: auto; /* Maintain aspect ratio */
+}
+
+@media (max-width: 768px) { /* Adjust breakpoint to your preference */
+  .Mexico-image {
+    width: 95%; /* Adjust width for smaller devices */
+  }
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -46,9 +58,3 @@
     transform: rotate(360deg);
   }
 }
-.no-bullets {
-  list-style-type: none; /* Removes bullet points */
-  padding: 0; /* Removes default padding */
-}
-
-/* ... the rest of your existing CSS ... */
